@@ -1,9 +1,9 @@
-esp-idf: 1b16ef6cfc
-arduino: master 55d608e3
-esp-dl: master f3006d7
-esp-dsp: master 401faf8
-esp-rainmaker: master 3736c12
-esp-sr: master b578f17
-esp32-camera: master 5611989
-esp_littlefs: master 485a037
-tinyusb: master 111515a29
+esp-idf: v4.4.2/no-mac-crc fc5d7dbd76
+arduino: solo-no-mac-crc/2.0.5 2d6ca351
+esp32-camera: 5c8349f
+esp-dl: f3006d7
+esp-dsp: 401faf8
+esp_littlefs: 485a037
+esp-rainmaker: 9b33df8
+esp-sr: 6b73190
+tinyusb: 73f22e31c
